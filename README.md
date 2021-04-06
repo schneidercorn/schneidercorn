@@ -1,3 +1,4 @@
+
 ### Hey There! I'm Jordan Schneider👋
 <p>...a student at University of Central Florida studying for a major in Computer Engineering and a minor in Mathematics</p>
 
@@ -6,8 +7,6 @@
 - 🔭 I’m currently working on schoolwork, but hopefully my portfolio soon enough ;)
 - 🌱 I'm also currently working on doing some more 3D modeling for enjoyment
 - 👯 I’m looking to learn python, at some point :(
-
-<br>
 
 #### What Languages do I use?
 <br>
@@ -31,3 +30,4 @@
 <br>
 
 ![counter](https://ennf2r0mipze251.m.pipedream.net)
+<a href="https://www.linkedin.com/in/jordanschneiderucf/"><img height="20" src="assets/linkedin.svg"></a>
