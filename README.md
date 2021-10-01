@@ -4,10 +4,6 @@
 
 <br>
 
-- 🔭 I’m currently working on schoolwork, but hopefully my portfolio soon enough ;)
-- 🌱 I'm also currently working on doing some more 3D modeling for enjoyment
-- 👯 I’m looking to learn python, at some point :(
-
 #### What Languages do I use?
 <br>
 <code><img height="30" src="assets/js.png"></code>
